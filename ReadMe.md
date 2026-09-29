@@ -25,11 +25,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-kachare-824a3128b/)
 [![Twitter](https://img.shields.io/badge/Twitter%2FX-8B5CF6?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SKK_TheCoder)
-
 [![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilkachare03@gmail.com)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Swapnilkachare03/)
-
 
 </div>
 
