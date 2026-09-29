@@ -42,6 +42,7 @@
 ### 🖥️ Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=C++&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Databases
