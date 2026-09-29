@@ -42,7 +42,7 @@
 
 ### 🖥️ Languages
 <p>
-  <p> <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,go,rust,kotlin&theme=dark" /> </p>
+  <p> <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,go,rust,kotlin,php&theme=dark" /> </p>
 </p>
 
 ### 🎨 Frontend
@@ -50,9 +50,7 @@
 </p>
 
 ### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,kafka,mongodb&theme,oraclesql=dark" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs,django,fastapi,hibernate,kafka&theme=dark" /> </p> <p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase&theme=dark" /> </p>
 
 ### ☁️ DevOps & Cloud
 <p>
@@ -60,11 +58,25 @@
 </p>
 
 ### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,Gridle,junit&theme=dark" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=figma,postman,vscode,idea,grafana,arduino,maven&theme=dark" /> </p>
 
 ---
+🌟 About Me 🌟
+
+I am a motivated Computer Application student specializing in Java backend development and full-stack technologies. Currently passout my Bachelo's of Computer Application at Bharati Vidyapeeth (Deemed to be University) karad, set to graduate in 2026, I combine academic learning with hands-on practice to build scalable, secure applications. I'm deeply interested in clean architecture, RESTful API development, system design, and cloud-native solutions.
+
+I work primarily in Java, building services with Spring Boot, Spring Security, Hibernate, and JWT/OAuth2, and I'm expanding into event-driven systems with Kafka and AI integration with Spring AI. Alongside application code, I practice DevOps with Docker, Jenkins, Ansible, and Terraform, and I regularly solve DSA problems to sharpen my problem-solving fundamentals.
+
+I am continuously learning and striving to grow in backend engineering, microservices architecture, and cloud technologies. I am actively seeking opportunities where I can contribute to meaningful projects, work in a mentorship-driven engineering culture, and further strengthen my technical and problem-solving capabilities.
+
+Education 🎓:
+
+Currently Passout of BCA at Bharati Vidyapeeth (Deemed to be University) Karad, graduating in June 2026.
+
+Let's Connect 🤝:
+
+Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in Backend Engineering ⚙️, DevOps 🛠️, or System Design 🌐. Let's make something amazing together! 🚀
+
 
 <!-- Snake Contribution Animation -->
 <picture>
