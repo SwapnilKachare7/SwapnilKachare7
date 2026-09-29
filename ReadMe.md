@@ -18,15 +18,22 @@
 </p>
 
 
-- 📫 How to reach me **swapnilkachare03@gmail.com**
-- 🎯 Currently open to Software and Backend Engineer roles
+- 📫 How to reach me **swapnilkachare03@gmail.com**  
+- 🎯 **Currently open to Software and Backend Engineer roles**
+- ⚡ Fun fact **I travelled for a month at a time without taking a Break.**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-kachare-824a3128b/)
-[![Twitter](https://img.shields.io/badge/Twitter%2FX-8B5CF6?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SKK_TheCoder)
-[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilkachare03@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Swapnilkachare03/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-kachare-824a3128b/)
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SKK_TheCoder)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swapnil._sk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=linktree&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilkachare03@gmail.com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]()
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)]()
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]()
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)]()
 
 </div>
 
@@ -100,6 +107,9 @@ Feel free to reach out if you want to collaborate on exciting projects 💡 or d
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwapnilKachare7&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&hide_border=true" />
 </div>
+
+---
+<p align="center"> ⚡ <b>My favourite quote:</b><br><br> <i>"Quality is never an accident; it is always the result of high intention,<br> sincere effort, intelligent direction, and skillful execution;<br> it represents the wise choice of many alternatives." ♥</i><br> — <b>William A. Foster</b> </p>
 
 ---
 
