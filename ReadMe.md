@@ -1,3 +1,4 @@
+![logo](https://github.com/nirmaltodwal7/GIF/blob/main/githubgif.gif)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Swapnil%20Kachare&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <p align="center">
