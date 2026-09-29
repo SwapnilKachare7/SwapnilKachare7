@@ -67,16 +67,16 @@ I work primarily in Java, building services with Spring Boot, Spring Security, H
 
 I am continuously learning and striving to grow in backend engineering, microservices architecture, and cloud technologies. I am actively seeking opportunities where I can contribute to meaningful projects, work in a mentorship-driven engineering culture, and further strengthen my technical and problem-solving capabilities.
 
-Education 🎓:
+### Education 🎓:
 
-Currently Passout of BCA at Bharati Vidyapeeth (Deemed to be University) Karad, graduating in June 2026.
+**Currently Passout of BCA at Bharati Vidyapeeth (Deemed to be University) Karad, graduating in June 2026.**
 
 
 ---
 ![GitHub GIF](https://github.com/nirmaltodwal7/GIF-2/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
 ---
-Let's Connect 🤝:
+### Let's Connect 🤝:
 
 Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in Backend Engineering ⚙️, DevOps 🛠️, or System Design 🌐. Let's make something amazing together! 🚀
 
