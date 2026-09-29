@@ -17,9 +17,9 @@
   <img src="https://komarev.com/ghpvc/?username=SwapnilKachare7&label=Profile%20views&color=8B5CF6&style=flat" alt="SwapnilKachare7" />
 </p>
 
-- 👨‍💻 My portfolio is live at [swapnilkachare7.github.io/Portfolio](https://swapnilkachare7.github.io/Portfolio/)
+
 - 📫 How to reach me **swapnilkachare03@gmail.com**
-- 🎯 Currently open to Full Stack Developer and Backend SDE/SWE roles
+- 🎯 Currently open to Software and Backend Engineer roles
 
 <div align="center">
 
@@ -42,13 +42,16 @@
 
 ### 🖥️ Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
-   <img src="https://skillicons.dev/icons?i=C++&theme=dark" />
+  <p> <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,go,rust,kotlin&theme=dark" /> </p>
+</p>
+
+### 🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,kafka,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,kafka,mongodb&theme,oraclesql=dark" />
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -58,7 +61,7 @@
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,maven,Gridle,junit&theme=dark" />
 </p>
 
 ---
