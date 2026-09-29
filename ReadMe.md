@@ -25,13 +25,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-kachare-824a3128b/)
 [![Twitter](https://img.shields.io/badge/Twitter%2FX-8B5CF6?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SKK_TheCoder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://swapnilkachare7.github.io/Portfolio/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilkachare03@gmail.com)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)]()
-[![HackerRank](https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)]()
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]()
-[![CodeChef](https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)]()
+[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Swapnilkachare03/)
+
 
 </div>
 
@@ -72,14 +70,16 @@ I am continuously learning and striving to grow in backend engineering, microser
 Education 🎓:
 
 Currently Passout of BCA at Bharati Vidyapeeth (Deemed to be University) Karad, graduating in June 2026.
+---
 
 ![GitHub GIF](https://github.com/nirmaltodwal7/GIF-2/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
+---
 Let's Connect 🤝:
 
 Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in Backend Engineering ⚙️, DevOps 🛠️, or System Design 🌐. Let's make something amazing together! 🚀
 
-
+---
 <!-- Snake Contribution Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
