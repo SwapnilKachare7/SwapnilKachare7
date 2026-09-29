@@ -70,8 +70,9 @@ I am continuously learning and striving to grow in backend engineering, microser
 Education 🎓:
 
 Currently Passout of BCA at Bharati Vidyapeeth (Deemed to be University) Karad, graduating in June 2026.
----
 
+
+---
 ![GitHub GIF](https://github.com/nirmaltodwal7/GIF-2/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
 ---
