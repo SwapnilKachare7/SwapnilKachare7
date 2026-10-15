@@ -105,7 +105,7 @@ Feel free to reach out if you want to collaborate on exciting projects 💡 or d
 </div>
 
 ---
-<p align="center"> ⚡ <b>My favourite quote:</b><br><br> <i>**"Quality is never an accident; it is always the result of high intention,<br> sincere effort, intelligent direction, and skillful execution;<br> it represents the wise choice of many alternatives." ♥**</i><br> — <b>William A. Foster</b> </p>
+<p align="center"> ⚡ <b>My favourite quote:</b><br><br> <b><i>"Quality is never an accident; it is always the result of high intention,<br>sincere effort, intelligent direction, and skillful execution;<br> it represents the wise choice of many alternatives." ♥</i>,</b><br> — <b>William A. Foster</b> </p>
 
 ---
 
