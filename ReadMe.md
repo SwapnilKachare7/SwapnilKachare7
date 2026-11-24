@@ -1,5 +1,5 @@
 ![logo](https://github.com/nirmaltodwal7/GIF/blob/main/githubgif.gif)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Swapnil%20Kachare&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200§ion=header&text=Swapnil%20Kachare&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Backend-8B5CF6" alt="Java Backend Badge" />
@@ -13,7 +13,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SwapnilKachare7&label=Profile%20views&color=8B5CF6&style=flat" alt="SwapnilKachare7" />
 </p>
-
 
 - 📫 How to reach me **swapnilkachare03@gmail.com**  
 - 🎯 **Currently open to Software and Backend Engineer roles**
@@ -40,15 +39,21 @@
 
 ### 🖥️ Languages
 <p>
-  <p> <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,go,rust,kotlin,php&theme=dark" /> </p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,go,rust,kotlin,php&theme=dark" />
 </p>
 
 ### 🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Databases
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs,django,fastapi,hibernate,kafka&theme=dark" /> </p> <p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase&theme=dark" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs,django,fastapi,hibernate,kafka&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase&theme=dark" />
+</p>
 
 ### ☁️ DevOps & Cloud
 <p>
@@ -56,12 +61,15 @@
 </p>
 
 ### 🧰 Tools
-<p> <img src="https://skillicons.dev/icons?i=figma,postman,vscode,idea,grafana,arduino,maven&theme=dark" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,idea,grafana,arduino,maven&theme=dark" />
+</p>
 
 ---
-🌟 About Me 🌟
 
-I am a motivated Computer Application student specializing in Java backend development and full-stack technologies. Currently passout my Bachelo's of Computer Application at Bharati Vidyapeeth (Deemed to be University) karad, set to graduate in 2026, I combine academic learning with hands-on practice to build scalable, secure applications. I'm deeply interested in clean architecture, RESTful API development, system design, and cloud-native solutions.
+### 🌟 About Me 🌟
+
+I am a motivated Computer Application student specializing in Java backend development and full-stack technologies. Currently a Bachelor's in Computer Application student at Bharati Vidyapeeth (Deemed to be University), Karad, graduating in 2026, I combine academic learning with hands-on practice to build scalable, secure applications. I'm deeply interested in clean architecture, RESTful API development, system design, and cloud-native solutions.
 
 I work primarily in Java, building services with Spring Boot, Spring Security, Hibernate, and JWT/OAuth2, and I'm expanding into event-driven systems with Kafka and AI integration with Spring AI. Alongside application code, I practice DevOps with Docker, Jenkins, Ansible, and Terraform, and I regularly solve DSA problems to sharpen my problem-solving fundamentals.
 
@@ -69,18 +77,26 @@ I am continuously learning and striving to grow in backend engineering, microser
 
 ### Education 🎓:
 
-**Currently Passout of BCA at Bharati Vidyapeeth (Deemed to be University) Karad, graduating in June 2026.**
-
+**Bachelor of Computer Applications (BCA) at Bharati Vidyapeeth (Deemed to be University), Karad — Graduating June 2026.**
 
 ---
+
+### Open Source Contributions
+
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
+---
+
 ![GitHub GIF](https://github.com/nirmaltodwal7/GIF-2/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
 ---
+
 ### Let's Connect 🤝:
 
 Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in Backend Engineering ⚙️, DevOps 🛠️, or System Design 🌐. Let's make something amazing together! 🚀
 
 ---
+
 <!-- Snake Contribution Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
@@ -105,8 +121,9 @@ Feel free to reach out if you want to collaborate on exciting projects 💡 or d
 </div>
 
 ---
+
 <p align="center"> ⚡ <b>My favourite quote:</b><br><br> <b><i>"Quality is never an accident; it is always the result of high intention,<br>sincere effort, intelligent direction, and skillful execution;<br> it represents the wise choice of many alternatives." ♥</i>,</b><br> — <b>William A. Foster</b> </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120§ion=footer&animation=twinkling" width="100%"/>
