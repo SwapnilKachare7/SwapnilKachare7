@@ -14,9 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=SwapnilKachare7&label=Profile%20views&color=8B5CF6&style=flat" alt="SwapnilKachare7" />
 </p>
 
-- 📫 How to reach me **swapnilkachare03@gmail.com**  
-- 🎯 **Currently open to Software and Backend Engineer roles**
-- ⚡ Fun fact **I travelled for a month at a time without taking a Break.**
+- 🌱 I’m currently learning **DSA & problem Solving,GenAI and LLMs.**
+
+- 💬 Ask me about **Java, Python, Machine Learning**
+
+- 📫 How to reach me **swapnilkachare03@gmail.com**
+
+- ⚡ Fun fact **I love coffee!🍵**
 
 <div align="center">
 
