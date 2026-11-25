@@ -85,6 +85,9 @@ I am continuously learning and striving to grow in backend engineering, microser
 ### Open Source Contributions
 
 [![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+<a href="SPRING_BOOT_PR_LINK">
+  <img src="https://img.shields.io/badge/PR_MERGED-SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</a>
 
 ---
 
