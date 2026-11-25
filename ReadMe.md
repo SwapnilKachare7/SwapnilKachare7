@@ -76,9 +76,7 @@ I work primarily in Java, building services with Spring Boot, Spring Security, H
 
 I am continuously learning and striving to grow in backend engineering, microservices architecture, and cloud technologies. I am actively seeking opportunities where I can contribute to meaningful projects, work in a mentorship-driven engineering culture, and further strengthen my technical and problem-solving capabilities.
 
-### Education 🎓:
 
-**Bachelor of Computer Applications (BCA) at Bharati Vidyapeeth (Deemed to be University), Karad — Graduating June 2026.**
 
 ---
 
